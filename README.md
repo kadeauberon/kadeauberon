@@ -1,6 +1,6 @@
 <div align="center"> 
-
-![](https://komarev.com/ghpvc/?username=kadeauberon&color=yellow&style=plastic&label=starfighters)
+  
+  ![](https://komarev.com/ghpvc/?username=kadeauberon&color=yellow&style=plastic&label=starfighters)
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
@@ -8,5 +8,8 @@
   </a>
 </p>
 
-<img width="300" height="200" alt="IMG_2996" src="https://github.com/user-attachments/assets/567129a0-7355-48d1-9921-f3144fab17dc" />
+<p align="center">
+<img width="400" height="400" alt="STARSHIP p" src="https://github.com/user-attachments/assets/9e895f83-4278-4ce2-b9d6-dcd92cded2df" />
 
+<div align="center"> 
+ceo of grace/kade idk what their ship name is... my art oki
